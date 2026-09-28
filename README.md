@@ -2,6 +2,8 @@
 M90 GEN 3+ PowerRiser – NVMe Expansion board for Lenovo Tiny 7 Series M90q Gen 3 and above
 
 
+![Photo of the board durind DC/DC converter testing](https://github.com/nandfarm/M90-GEN-3-PowerRiser/blob/main/Photos/DCDC_PS_Testing.jpeg)
+
 #Status. This is a work in progres project.
 
  - Power supply is stable up to 75W.
